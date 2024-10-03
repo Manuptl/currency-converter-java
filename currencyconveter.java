@@ -1,5 +1,5 @@
 import java. util.Scanner;
-public class CurrencyConverter {
+public class Currencyconverter {
 
     public static void main(String[] args) {
         System.out.println("1 Ruppe");
